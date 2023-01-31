@@ -1,0 +1,15 @@
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\bin\Debug\net6.0\hesapmakines.exe
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\bin\Debug\net6.0\hesapmakines.deps.json
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\bin\Debug\net6.0\hesapmakines.runtimeconfig.json
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\bin\Debug\net6.0\hesapmakines.dll
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\bin\Debug\net6.0\hesapmakines.pdb
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\hesapmakines.csproj.AssemblyReference.cache
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\hesapmakines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\hesapmakines.AssemblyInfoInputs.cache
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\hesapmakines.AssemblyInfo.cs
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\hesapmakines.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\hesapmakines.dll
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\refint\hesapmakines.dll
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\hesapmakines.pdb
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\hesapmakines.genruntimeconfig.cache
+C:\Users\oztur\source\repos\hesapmakines\hesapmakines\obj\Debug\net6.0\ref\hesapmakines.dll
